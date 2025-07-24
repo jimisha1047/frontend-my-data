@@ -1,0 +1,7 @@
+what is website ?
+ website is a collection of information or webpages i.e. called website .
+
+ types of website 
+
+ a) static website (website ne runtime pr change na kri skiye  )
+ b) dynamic website (website ne runtime pr change kri skiye- amazon , flipkart )
